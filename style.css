@@ -1,0 +1,110 @@
+body {
+    width: 100%;
+    margin: 0;    
+}
+
+header {
+    width: 100%;
+    height: 10%;
+    top: 0;
+    left: 0;
+    position: sticky;
+    vertical-align: middle;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.cop {
+    color: #ff19de;
+}
+
+.h1 {
+    display: inline-block;
+    top: 5%;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 0.3%;
+    padding-left: 4%;
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.7em;
+    font-weight: 700;
+}
+
+.k1 {
+    display: inline-block;
+    position: relative;
+    left: 25%;
+    top: 5%;
+    font-size: large;
+    color: #676767;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.k2 {
+    display: inline-block;
+    position: relative;
+    left: 32%;
+    top: 5%;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color: #676767;
+    font-size: large;
+}
+
+.k3 {
+    display: inline-block;
+    position: relative;
+    left: 39%;
+    top: 5%;
+    font-size: large;
+    color: #676767;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.k1:hover {
+    color: #000000;
+    font-weight:700;
+    text-decoration: none;
+}
+
+.k2:hover {
+    color: #000000;
+    font-weight:700;
+    text-decoration: none;
+}
+
+.k3:hover {
+    color: #000000;
+    font-weight:700;
+    text-decoration: none;
+}
+
+.swear {
+    font-weight: 700;
+    color: #000000;
+}
+
+p {
+    width:30%;
+    color: #333333;
+    line-height: 26px;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    left:35%;
+    top:35%;
+}
+
+.img {
+    display: inline-block;
+    position: absolute;
+    right: 4%;
+    top: 0%;
+    padding-top: 1.3%;
+}
+
+.ezz {
+    font-weight: 700;
+    color:#000000;
+}
